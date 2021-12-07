@@ -55,7 +55,7 @@ class Shill():
         #self.send_message()
 
 
-id0 = Shill("","","5") # Telegram account info
+id0 = Shill("10398601","c1d3300f52b09a6e42948fb8e4cb88fa","5") # Telegram account info
 
 t1 = Thread(target=id0.account)
 
