@@ -5,7 +5,7 @@ def fetch_text():
 
 
 def fetch_list():
-    channel_list = [] #Channel list here
+    channel_list = [1] #Channel list here
 
     return channel_list
 
