@@ -1,5 +1,5 @@
 def fetch_text():
-    self = """
+    self = "123456"
 """ # Your Message here
     return self
 
